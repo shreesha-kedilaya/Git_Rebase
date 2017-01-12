@@ -9,4 +9,4 @@ var secondCommit = "firstCommit"
 
 var thirdCommit = "firstCommit"
 
-var fourthCommit = "Commit"
+var fourthCommit = "firstCommit"
